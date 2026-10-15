@@ -3,3 +3,11 @@ transcripts/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Data och genererat innehåll – får aldrig in i det publika repot
+Transcripts-local/
+Transcripts-iphone
+Tracklists-iphone
+Audio/
+*-kunskapsguide-*.md
+CLAUDE.md
